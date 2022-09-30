@@ -1,2 +1,3 @@
 # -Ragged-Array-Structures-array-of-arrays-
 Using multiple ragged arrays to solve a word search puzzle.
+Using Ragged Array Structures and 2-D array random indexing, the purpose of this Code is to solve a 25X25 word puzzle. By reading in a data file containing 21 words to search for into a ragged array, this array will consist of 21 rows, where each row represents 1 word. There will be another 2-D array in order to read the puzzle board into a second 25X25 char matrix. For each word in the word list identified, the output will be printed on the empty board where it's location was found in the board.
